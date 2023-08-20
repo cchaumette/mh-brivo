@@ -13,7 +13,7 @@
 
 1. **Open Anaconda Prompt**: Press `Win + R`, type `cmd`, and press Enter to open the Anaconda Prompt.
 
-2. **Navigate to YAML File Directory**: Use the `cd` command to navigate to the directory containing `environment.yml`.
+2. **Navigate to YAML File Directory**: Use the `cd` command to navigate to the directory containing `env.yml`.
 
 3. **Create the Environment**: Run the following command to create the environment: `conda env create -f env.yml`
 
