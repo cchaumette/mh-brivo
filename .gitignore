@@ -1,0 +1,3 @@
+credential*
+*.xlsx
+.ipynb_checkpoints/*
